@@ -1,7 +1,7 @@
 - Hlo, I’m @agmyintmyatoo
 - I’m currently learning Python, along with Django.
 
-- You can reach to me via [Twitter](https://twitter.com/agmyintmyatoo/). Hit me a text or two.
+**Currently, you can reach to me via my [site](https://agmmoo.herokuapp.com/message/). Hit me a text or two.**
 
 <!---
 agmyintmyatoo/agmyintmyatoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
