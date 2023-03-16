@@ -1,7 +1,7 @@
 - Hello, I’m @agmmtoo.
-- Can speak in Js, Ts, Py ~(and Go soon)~.
-- Still fighting the _**JS fatigue**_.
-- Currently diving into web development.
+- can speak in Js, Ts, Py ~(and Go soon)~.
+- currently diving into web development.
+- trying to survive the infamous **JS fatigue**.
 
 **Reach out to me via my [~site~](https://agmmoo.herokuapp.com/message/) [site](https://agmyintmyatoo.github.io). ~Hit me a text or two~.**
 
